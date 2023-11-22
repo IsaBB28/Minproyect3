@@ -2,7 +2,7 @@
 PARA PODER USAR EL PROGRAMA ES NECESARIO CONECTARLO A UNA BASE DE DATOS  
 
 *se debe agregar al netbeans en las librerias el archivo .JAR llamado "postgresql-42.6.0"
-**se debe descargar el postgresql 16.1  
+**se debe descargar el postgresql 16.1  https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
 ** colocar de contraseña "postgres"
 
 *aqui dejo lo que se debe copiar cuando se cree la base de datos "directorio" 
