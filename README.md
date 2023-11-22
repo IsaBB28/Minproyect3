@@ -1,4 +1,8 @@
 # Minproyect3
+AUTORES: Isabella Bastidas Borrero 2040127
+Daniel Enrique Echeverria Villa 2177465
+
+
 PARA PODER USAR EL PROGRAMA ES NECESARIO CONECTARLO A UNA BASE DE DATOS  
 
 *se debe agregar al netbeans en las librerias el archivo .JAR llamado "postgresql-42.6.0"
